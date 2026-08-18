@@ -1,0 +1,15 @@
+#pragma once
+#include "../windissect_forwards.h"
+
+// Reconstructed from shell32.dll by Windissect. 2 member(s).
+namespace CProperTreeHost {
+class NavigateToAsyncWorkItem {
+public:
+    // Category: Ctor | Source: PDB Internal
+    // Symbol: ??0NavigateToAsyncWorkItem@CProperTreeHost@@QEAA@PEAUIUnknown@@@Z
+    NavigateToAsyncWorkItem(IUnknown *);
+    // Category: Dtor | Source: PDB Internal
+    // Symbol: ??1NavigateToAsyncWorkItem@CProperTreeHost@@QEAA@XZ
+    ~NavigateToAsyncWorkItem();
+};
+} // namespace CProperTreeHost
