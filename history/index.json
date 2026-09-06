@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "shell32",
+      "file": "shell32.dll",
+      "index": "shell32/index.json",
+      "latest": "720474433-4907816C76ABD6288BBE01D3E8033EE9-1",
+      "build_count": 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "target": "shell32.dll",
+  "latest": "720474433-4907816C76ABD6288BBE01D3E8033EE9-1",
+  "builds": [
+    {
+      "key": "720474433-4907816C76ABD6288BBE01D3E8033EE9-1",
+      "timestamp": "720474433",
+      "pdb_guid": "4907816C76ABD6288BBE01D3E8033EE9",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/720474433-4907816C76ABD6288BBE01D3E8033EE9-1/ir.json",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ]
+}
